@@ -1,5 +1,4 @@
 # Serverless-Face-Recognition-System-using-AWS-Lambda
-# Serverless Face Recognition Platform
 
 ## Introduction
 
